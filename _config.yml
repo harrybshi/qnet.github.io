@@ -4,5 +4,3 @@ theme: minima
 markdown: kramdown
 header_pages:
   - publications.md
-  - projects.md
-  - cv.md
