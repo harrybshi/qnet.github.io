@@ -1,0 +1,8 @@
+title: Harriet Bufan Shi
+description: Graduate Student at Duke Quantum Center
+theme: minima
+markdown: kramdown
+header_pages:
+  - publications.md
+  - projects.md
+  - cv.md
